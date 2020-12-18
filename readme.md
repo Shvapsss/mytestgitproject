@@ -1,1 +1,2 @@
-test project, git excercises
+test project,
+with git excercises
